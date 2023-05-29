@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony
+- 👋 Hi, I’m @Devopstudent
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on CI/CD
